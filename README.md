@@ -1,1 +1,2 @@
 # ACCIDENT-ANALYSIS
+This repository consists of powerbi file in which various graphs and charts were prepared for detailed analysis of the dataset. This repository also consists of report file where results of analysis are mentioned and necessary actions were suggested to reduce the number of accidents.The report file also consist of the link to the dataset as the sataset was not uploaded due to some errors. Please note that the input dataset was not from India.
